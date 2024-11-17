@@ -1,0 +1,5 @@
+Pada menu Login
+- user admin dibuat menggunakan lalravel filament
+- tidak ada menu register
+- tidak ada lgoin menggunakan akun google
+- akun user admin akan dibuatkan melalui superadmin
