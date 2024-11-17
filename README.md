@@ -9,7 +9,7 @@ Berikut adalah beberapa cuplikan desain antarmuka dari platform yang dirancang u
 
 ### 🌐 **Halaman Utama**  
 Cuplikan halaman utama dengan desain modern dan navigasi intuitif.  
-![Halaman Utama](https://via.placeholder.com/800x400?text=Preview+Halaman+Utama)
+![Halaman Utama]([https://via.placeholder.com/800x400?text=Preview+Halaman+Utama](https://github.com/cimot-dev/tampilan-web/blob/master/BERNADA/1.jpg))
 
 ---
 
