@@ -15,19 +15,13 @@ Cuplikan halaman utama dengan desain modern dan navigasi intuitif.
 
 ### 📋 **Formulir Login**  
 Tampilan formulir login yang sederhana, responsif, dan mudah digunakan.  
-![Formulir Pendaftaran](https://via.placeholder.com/800x400?text=Preview+Formulir+Pendaftaran)
+![Formulir Login](https://github.com/cimot-dev/tampilan-web/blob/master/LOGIN/1.jpg)
 
 ---
 
 ### 📈 **Dashboard Admin**  
 Antarmuka dashboard admin yang menampilkan statistik peserta secara real-time.  
-![Dashboard Admin](https://via.placeholder.com/800x400?text=Preview+Dashboard+Admin)
-
----
-
-### 📱 **Desain Responsif**  
-Optimal untuk berbagai perangkat, mulai dari desktop hingga smartphone.  
-![Desain Responsif](https://via.placeholder.com/400x800?text=Preview+Mobile+View)
+![Dashboard Admin](https://github.com/cimot-dev/tampilan-web/blob/master/LOGIN/DASHBOARD.jpg)
 
 ---
 
